@@ -3,4 +3,6 @@ this is my git
 
 new image added
 
-new infor edited
+new info edited
+
+new message added
